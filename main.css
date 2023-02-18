@@ -1,0 +1,11 @@
+input[type = text] {
+    width: 50%;
+}
+.lines{
+    display: inline-flex;
+}
+
+.inputs{
+    margin-left: 1%;
+   
+}
